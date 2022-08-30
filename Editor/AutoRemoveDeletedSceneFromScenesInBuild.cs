@@ -31,7 +31,8 @@ namespace Kogane.Internal
 
             // Build Settings では Deleted なシーンかどうかは File.Exists で確認している
             // https://github.com/Unity-Technologies/UnityCsReference/blob/master/Editor/Mono/BuildPlayerSceneTreeView.cs
-            var newScenes = Enumerable.Where( EditorBuildSettings.scenes, x => File.Exists( x.path ) )
+            var newScenes = EditorBuildSettings.scenes
+                    .Where( x => File.Exists( x.path ) )
                     .ToArray()
                 ;
 
