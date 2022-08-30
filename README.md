@@ -1,1 +1,1 @@
-# Kogane.AutoRemoveDeletedSceneFromScenesInBuild
+# Kogane Auto Remove Deleted Scene From Scenes In Build

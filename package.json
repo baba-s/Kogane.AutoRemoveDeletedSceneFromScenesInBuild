@@ -1,0 +1,7 @@
+{
+    "name": "com.baba-s.kogane-auto-remove-deleted-scene-from-scenes-in-build",
+    "displayName": "Kogane Auto Remove Deleted Scene From Scenes In Build",
+    "version": "1.0.0",
+    "unity": "2022.2",
+    "author": "baba-s"
+}
