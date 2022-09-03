@@ -1,6 +1,6 @@
 # Kogane Auto Remove Deleted Scene From Scenes In Build
 
-![icon457](https://user-images.githubusercontent.com/6134875/187419014-c6d7a698-0258-4c9a-915a-33a6a0fca8fe.gif)
+![icon459](https://user-images.githubusercontent.com/6134875/188252195-11413b79-c3b7-4756-bae1-0358495d5f67.gif)
 
 Build Settings の Scenes In Build から Deleted なシーンを自動で削除するエディタ拡張
 
